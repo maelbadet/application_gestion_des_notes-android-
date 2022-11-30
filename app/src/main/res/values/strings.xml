@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion de Notes</string>
+    <string name="g1_descriptif">Mathieu GAISNON\nCéation des élèves</string>
+    <string name="g2_descriptif">Hugo PACE\nAjout des notes à la base</string>
+    <string name="g3_descriptif">Rémi PEDEFLOUS\nAffichage de la liste des notes</string>
+    <string name="g4_descriptif">Mael BADET\nCéation du model de données + DAO</string>
+    <string name="g5_descriptif">Hugo THOUIN-DUGAND\nGestion du projet GIT, et Ecran principal</string>
+    <string name="g6_descriptif">Mickael HOAREAU\nGestion du Menu</string>
+    <string name="add_lev">Ajouter un élève</string>
+    <string name="add_note">Attribuer une note</string>
+    <string name="show_list">Liste</string>
+</resources>
